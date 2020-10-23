@@ -1,0 +1,92 @@
+@keyframes ldio-vs0urv89v8 {
+  0% { transform: rotate(0) }
+  100% { transform: rotate(360deg) }
+}
+.ldio-vs0urv89v8 div { box-sizing: border-box!important }
+.ldio-vs0urv89v8 > div {
+  position: absolute;
+  width: 132px;
+  height: 132px;
+  top: 9px;
+  left: 9px;
+  border-radius: 50%;
+  border: 6px solid #000;
+  border-color: #e15b64 transparent #e15b64 transparent;
+  animation: ldio-vs0urv89v8 2.3255813953488373s linear infinite;
+}
+
+.ldio-vs0urv89v8 > div:nth-child(2), .ldio-vs0urv89v8 > div:nth-child(4) {
+  width: 117px;
+  height: 117px;
+  top: 16.5px;
+  left: 16.5px;
+  animation: ldio-vs0urv89v8 2.3255813953488373s linear infinite reverse;
+}
+.ldio-vs0urv89v8 > div:nth-child(2) {
+  border-color: transparent #cb6af8 transparent #cb6af8
+}
+.ldio-vs0urv89v8 > div:nth-child(3) { border-color: transparent }
+.ldio-vs0urv89v8 > div:nth-child(3) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-vs0urv89v8 > div:nth-child(3) div:before, .ldio-vs0urv89v8 > div:nth-child(3) div:after { 
+  content: "";
+  display: block;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: -6px;
+  left: 57px;
+  background: #e15b64;
+  border-radius: 50%;
+  box-shadow: 0 126px 0 0 #e15b64;
+}
+.ldio-vs0urv89v8 > div:nth-child(3) div:after {
+  left: -6px;
+  top: 57px;
+  box-shadow: 126px 0 0 0 #e15b64;
+}
+
+.ldio-vs0urv89v8 > div:nth-child(4) { border-color: transparent; }
+.ldio-vs0urv89v8 > div:nth-child(4) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-vs0urv89v8 > div:nth-child(4) div:before, .ldio-vs0urv89v8 > div:nth-child(4) div:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: -6px;
+  left: 49.5px;
+  background: #cb6af8;
+  border-radius: 50%;
+  box-shadow: 0 111px 0 0 #cb6af8;
+}
+.ldio-vs0urv89v8 > div:nth-child(4) div:after {
+  left: -6px;
+  top: 49.5px;
+  box-shadow: 111px 0 0 0 #cb6af8;
+}
+.loadingio-spinner-double-ring-z766vyylq0e {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  overflow: hidden;
+  background: #1f0f0f;
+}
+.ldio-vs0urv89v8 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+.ldio-vs0urv89v8 div { box-sizing: content-box; }
